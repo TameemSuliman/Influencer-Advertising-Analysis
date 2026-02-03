@@ -1,0 +1,1 @@
+flask\r\npandas\r\nseaborn\r\nmatplotlib\r\nscikit-learn\r\n
